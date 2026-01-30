@@ -22,7 +22,6 @@
   "icons": {
     "library": "lucide"
   },
-  "favicon": "/favicon.svg",
   "api": {
     "playground": {
       "display": "interactive"
